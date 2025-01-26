@@ -17,6 +17,7 @@
             // Создание даты рождения
             DateTime birthDate = new DateTime(year, month, number);
 
+
             // Получение текущей даты
             DateTime currentDate = DateTime.Now;
 

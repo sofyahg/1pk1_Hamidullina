@@ -16,6 +16,7 @@
             double part7 = part2 / part6;     // Седьмое действие: числитель делим на знаменатель
             double result = part7;
             Console.WriteLine(result);
+
         }
     }
 }
