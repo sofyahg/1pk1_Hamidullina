@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
 
-            static void Main(string[] args)
+          
             {
                 int[] rainfalls = new int[30];
 
