@@ -18,10 +18,10 @@
             Console.Write("Введите строку: ");
             string text = Console.ReadLine();
             Console.Write("Введите подстроку для поиска: ");
-            string str = Console.ReadLine();
+            string str1 = Console.ReadLine();
             Console.Write("Введите подстроку для замены: ");
             string str2 = Console.ReadLine();
-            text = text.Replace(str, str2);
+            text = text.Replace(str1, str2);
             Console.Write($"Результат: {text}");
         }
     }
